@@ -113,11 +113,11 @@ params:
 ################################################################################
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Pythagoras of Samos."
+    intro: "Hi, my name is Paria"
+    title: "The Paria"
     subtitle: ""
     content: ""
-    image: images/Pythagoras.jpeg
+    image: 
     roundImage: true
     button:
       enable: true
@@ -176,17 +176,17 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "tellus sit amet pulvinar"
+      - title: "PhD candidate in Mathematics"
         school:
-          name: "Hermodamas of Samos"
+          name: "University of Iowa"
           url: "https://en.wikipedia.org/w/index.php?title=Hermodamas_of_Samos&action=edit&redlink=1"
-        date: "595 BC - 590 BC"
-      - title: "Quisque consectetur"
+        date: "Fall 2022"
+      - title: "BS in mathematics"
         school:
-          name: "Pherecydes of Syros"
+          name: "KNTU of Technology"
           url: "https://en.wikipedia.org/wiki/Pherecydes_of_Syros"
-        date: "595 BC - 590 BC"
-        GPA: "3.9 out of 5.0"
+        date: "Fall 2014-Spring 2019"
+        GPA: "6.0 out of 5.0"
         content: |-
           In dolor dolor, eleifend at leo a, viverra convallis risus. Aliquam eu leo
           diam. Vivamus at urna dignissim, venenatis dolor ut, laoreet elit.
